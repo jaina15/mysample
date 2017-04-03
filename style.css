@@ -1,0 +1,56 @@
+body {
+  
+  padding-top: 80px;
+}
+.navbar{
+	background-color:#474E69;
+	color:#FFF;
+	box-shadow: 2px 2px 2px #888888;
+	-moz-box-shadow: 2px 2px 2px #888888;
+	-webkit-box-shadow: 2px 2px 2px #888888;
+}
+input, textarea{
+	padding:10px;
+	border: 1px solid #E5E5E5;
+	width:200px;
+	color:#999999;
+	box-shadow: 2px 2px 2px #888888;
+	-moz-box-shadow: 2px 2px 2px #888888;
+	-webkit-box-shadow: 2px 2px 2px #888888;
+}
+input:hover, textarea:hover, input:focus, textarea:focus{
+	border-color:#C9C9C9;
+	border-style:2px solid;
+	box-shadow: 2px 2px 2px #888888;
+	-moz-box-shadow: 2px 2px 2px #888888;
+	-webkit-box-shadow: 2px 2px 2px #888888;
+}
+#sb{
+	background-color:#474E69;
+	color:#FFF;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+}
+.jumbotron{
+
+	background-image: url('images/jumbotron.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	border-color:#C9C9C9;
+	border-style:2px solid;
+	box-shadow: 2px 2px 2px #888888;
+	-moz-box-shadow: 2px 2px 2px #888888;
+	-webkit-box-shadow: 2px 2px 2px #888888;
+}
+#jhead{
+	color: #8B008B;
+	margin-bottom: 20px;
+}
+textarea{
+	width:400px;
+	height:150px;
+	max-width:400px;
+	line-height:20px;
+}
